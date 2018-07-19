@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "constraintlayout.azhar.me.deeplinktest",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["4B:8D:A2:C5:04:5D:0E:F8:A2:7C:F2:C8:02:5C:6D:B3:66:C1:B1:CE:A8:43:0B:64:74:44:A8:F6:36:72:4C:3A"]
   }
 }]
